@@ -1,0 +1,19 @@
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKLBLUE = '\033[96m'
+    OKGREEN = '\033[92m'
+    OKWHITE = "\033[1;30m" # 字体颜色：白色
+    OKRED = "\033[1;31m" # 字体颜色：红色
+    OKDYELLOW = "\033[1;32m" # 字体颜色：深黄色
+    OKLYELLOW = "\033[1;33m" # 字体颜色：浅黄色
+    OKBLUE2 = "\033[1;34m" # 字体颜色：蓝色
+    OKLPURPLE = "\033[1;35m" # 字体颜色：淡紫色
+    OKCYAN2 = "\033[1;36m" # 字体颜色：青色
+    OKGRAY = "\033[1;37m" # 字体颜色：灰色
+    OKLGRAY = "\033[1;38m" # 字体颜色：浅灰色
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'

@@ -1,0 +1,22 @@
+NUM_QUESTIONS: 11
+totalscorelist: [3,3,3,3,3,3,3,3,3,3,3]
+issue_number_list: [137696,137697,137698,137699,137700,137701,137702,137703,137704,137705,137706]
+skip_questions: [11]
+load_execute_history: true
+load_auto_history: true
+load_manual_history: true
+MANUAL_EXAMINATION_0: true
+
+ALL_PATH: 
+  execute_history_file: ~
+  auto_history_file: ~    # execute data and autograde data, kept one only in design.
+  manual_history_file: ~   # None: Load the file with max digit
+  name_sid_file: ./name_sid.csv
+  grade_function_file: ./scripts/grade_functions.py
+  submission_dir: ./submissions
+  history_dir: ./history
+  input_dir: ./inputs
+  result_dir: ./result
+
+
+

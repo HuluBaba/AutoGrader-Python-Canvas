@@ -1,0 +1,7 @@
+config/config_ex*
+history/*
+
+
+**/__pycache__/
+.vscode/
+__pycache__/
